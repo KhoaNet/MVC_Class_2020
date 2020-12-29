@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@foreach(var emp in ViewBag.Employees){
+    <h1>@emp.EmployeeId</h1>
+    <h1>@emp.EmployeeName</h1>
+}
+

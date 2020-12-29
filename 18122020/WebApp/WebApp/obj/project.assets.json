@@ -741,11 +741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Code\\MVC\\web\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\18122020\\WebApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "G:\\Code\\MVC\\web\\WebApp\\WebApp\\WebApp.csproj",
+      "projectPath": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\18122020\\WebApp\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\Code\\MVC\\web\\WebApp\\WebApp\\obj\\",
+      "outputPath": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\18122020\\WebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
