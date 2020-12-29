@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OoOqLNiJy1jD3u+vvHnw/bJPuwd9PK4Av5fT0LJlCsVVlLOg3a7WnZAp8AZmaj8sIE1SpMgxYzMhFSJekmnqGA==",
+  "dgSpecHash": "rVXg9U/9p6648FrUWBs/ZleeCH2j8p5di+oXY5vURTLrjSs4hkaA+eLO2nhJFywOfD+t7bfCvEXrcz59ZDyguw==",
   "success": true,
-  "projectFilePath": "G:\\Code\\MVC\\web\\WebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\18122020\\WebApp\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.1\\microsoft.aspnetcore.mvc.razor.extensions.5.0.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.1\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.1.nupkg.sha512",

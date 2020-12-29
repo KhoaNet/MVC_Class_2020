@@ -1,0 +1,13 @@
+G:\Code\Apteach\28122020\Bus\bin\Debug\netcoreapp3.1\Bus.deps.json
+G:\Code\Apteach\28122020\Bus\bin\Debug\netcoreapp3.1\Bus.dll
+G:\Code\Apteach\28122020\Bus\bin\Debug\netcoreapp3.1\Bus.pdb
+G:\Code\Apteach\28122020\Bus\bin\Debug\netcoreapp3.1\Dao.dll
+G:\Code\Apteach\28122020\Bus\bin\Debug\netcoreapp3.1\Dao.pdb
+G:\Code\Apteach\28122020\Bus\obj\Debug\netcoreapp3.1\Bus.csprojAssemblyReference.cache
+G:\Code\Apteach\28122020\Bus\obj\Debug\netcoreapp3.1\Bus.AssemblyInfoInputs.cache
+G:\Code\Apteach\28122020\Bus\obj\Debug\netcoreapp3.1\Bus.AssemblyInfo.cs
+G:\Code\Apteach\28122020\Bus\obj\Debug\netcoreapp3.1\Bus.csproj.CoreCompileInputs.cache
+G:\Code\Apteach\28122020\Bus\obj\Debug\netcoreapp3.1\Bus.csproj.CopyComplete
+G:\Code\Apteach\28122020\Bus\obj\Debug\netcoreapp3.1\Bus.dll
+G:\Code\Apteach\28122020\Bus\obj\Debug\netcoreapp3.1\Bus.pdb
+G:\Code\Apteach\28122020\Bus\bin\Debug\netcoreapp3.1\settings.json
