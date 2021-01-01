@@ -6450,11 +6450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Code\\Apteach\\28122020\\webClient\\webClient.csproj",
+      "projectUniqueName": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\webClient\\webClient.csproj",
       "projectName": "webClient",
-      "projectPath": "G:\\Code\\Apteach\\28122020\\webClient\\webClient.csproj",
+      "projectPath": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\webClient\\webClient.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\Code\\Apteach\\28122020\\webClient\\obj\\",
+      "outputPath": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\webClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6475,8 +6475,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "G:\\Code\\Apteach\\28122020\\Bus\\Bus.csproj": {
-              "projectPath": "G:\\Code\\Apteach\\28122020\\Bus\\Bus.csproj"
+            "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\Bus\\Bus.csproj": {
+              "projectPath": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\Bus\\Bus.csproj"
             }
           }
         }
