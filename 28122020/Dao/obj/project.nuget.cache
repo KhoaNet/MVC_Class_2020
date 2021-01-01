@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fbqV9hd8/DX5+VPLMn3cQ5SADMtK0jOyuDTZhIl1n70Tp7qHyRvoWFWApb2oFiQ5HNukyzeCE1FXXA9fUjgk6Q==",
+  "dgSpecHash": "DYrv4YfyDTlfRj8efNRORPsEYHS6VllX6rP5a/SCnludP9O8hP5aXmVSdi0RPGb/Lx+NsTroTtAR+zHeKpeeUw==",
   "success": true,
-  "projectFilePath": "G:\\Code\\Apteach\\28122020\\Dao\\Dao.csproj",
+  "projectFilePath": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
