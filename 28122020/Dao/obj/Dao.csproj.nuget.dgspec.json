@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj": {}
+    "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj": {}
   },
   "projects": {
-    "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj": {
+    "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj",
+        "projectUniqueName": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj",
         "projectName": "Dao",
-        "projectPath": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj",
+        "projectPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\Teach\\Teach\\Apteach\\MVC_Class_2020\\28122020\\Dao\\obj\\",
+        "outputPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "DevExpress.Xpo": {
+              "target": "Package",
+              "version": "[19.2.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.1, )"
