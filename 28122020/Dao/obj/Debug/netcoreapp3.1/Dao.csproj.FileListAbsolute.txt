@@ -11,3 +11,16 @@ G:\Code\Apteach\28122020\Dao\obj\Debug\netcoreapp3.1\Dao.dll
 G:\Code\Apteach\28122020\Dao\obj\Debug\netcoreapp3.1\Dao.pdb
 G:\Code\Apteach\28122020\Dao\obj\Debug\netcoreapp3.1\Dao.genruntimeconfig.cache
 G:\Code\Apteach\28122020\Dao\bin\Debug\netcoreapp3.1\settings.json
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\bin\Debug\netcoreapp3.1\settings.json
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\bin\Debug\netcoreapp3.1\Dao.deps.json
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\bin\Debug\netcoreapp3.1\Dao.runtimeconfig.json
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\bin\Debug\netcoreapp3.1\Dao.runtimeconfig.dev.json
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\bin\Debug\netcoreapp3.1\Dao.dll
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\bin\Debug\netcoreapp3.1\Dao.pdb
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\obj\Debug\netcoreapp3.1\Dao.csprojAssemblyReference.cache
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\obj\Debug\netcoreapp3.1\Dao.AssemblyInfoInputs.cache
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\obj\Debug\netcoreapp3.1\Dao.AssemblyInfo.cs
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\obj\Debug\netcoreapp3.1\Dao.csproj.CoreCompileInputs.cache
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\obj\Debug\netcoreapp3.1\Dao.dll
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\obj\Debug\netcoreapp3.1\Dao.pdb
+G:\Code\Apteach\MVC\MVC_Class_2020\28122020\Dao\obj\Debug\netcoreapp3.1\Dao.genruntimeconfig.cache

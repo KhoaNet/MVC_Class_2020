@@ -32,6 +32,24 @@ namespace Dao.Migrations
 
                     b.ToTable("Employees");
                 });
+
+            modelBuilder.Entity("Dao.Model.ShoeModel", b =>
+                {
+                    b.Property<int>("ShoeId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("ShoeImg")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ShoeName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ShoeId");
+
+                    b.ToTable("Shoes");
+                });
 #pragma warning restore 612, 618
         }
     }

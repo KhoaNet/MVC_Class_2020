@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Bus\Bus.csproj" />
+    <ProjectReference Include="..\Dao\Dao.csproj" />
   </ItemGroup>
 
 </Project>

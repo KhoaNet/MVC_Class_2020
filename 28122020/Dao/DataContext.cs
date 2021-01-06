@@ -21,5 +21,6 @@ namespace Dao
         }
 
         public DbSet<EmployeeModel> EmployeeModel { get; set; }
+        public DbSet<ShoeModel> ShoeModel { get; set; }
     }
 }
