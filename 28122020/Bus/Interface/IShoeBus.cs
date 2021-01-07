@@ -7,7 +7,6 @@ namespace Bus.Interface
 {
     interface IShoeBus
     {
-        public List<ShoeModel> GetShoes();
-        public ActionRequest Add(ShoeModel shorReq);
+        public List<ShoeModel> GetList();
     }
 }

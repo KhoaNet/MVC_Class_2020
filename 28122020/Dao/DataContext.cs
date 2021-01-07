@@ -17,7 +17,6 @@ namespace Dao
             var config = builder.Build();
 
             optionsBuilder.UseSqlServer(config["ConnectionsStrings:ConectSql"]);
-
         }
 
         public DbSet<EmployeeModel> EmployeeModel { get; set; }

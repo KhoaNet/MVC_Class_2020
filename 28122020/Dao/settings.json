@@ -8,7 +8,7 @@
   },
   "AllowedHosts": "*",
   "ConnectionsStrings": {
-    "ConectSql": "Server=NDKHOA1-DU6;Database=WebDemo;User Id=sa;Password=123456;"
+    "ConectSql": "Server=NDKHOA1-DU6;Database=WebShoe;User Id=sa;Password=123456;"
   }
 
 }

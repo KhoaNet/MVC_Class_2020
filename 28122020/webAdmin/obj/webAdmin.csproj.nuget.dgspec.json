@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\webAdmin\\webAdmin.csproj": {}
+    "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\webAdmin\\webAdmin.csproj": {}
   },
   "projects": {
-    "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Bus\\Bus.csproj": {
+    "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Bus\\Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Bus\\Bus.csproj",
+        "projectUniqueName": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Bus\\Bus.csproj",
         "projectName": "Bus",
-        "projectPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Bus\\Bus.csproj",
+        "projectPath": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Bus\\Bus.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Bus\\obj\\",
+        "outputPath": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Bus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj": {
-                "projectPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj"
+              "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Dao\\Dao.csproj": {
+                "projectPath": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Dao\\Dao.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj": {
+    "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Dao\\Dao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj",
+        "projectUniqueName": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Dao\\Dao.csproj",
         "projectName": "Dao",
-        "projectPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj",
+        "projectPath": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Dao\\Dao.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\obj\\",
+        "outputPath": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Dao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,10 +106,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "DevExpress.Xpo": {
-              "target": "Package",
-              "version": "[19.2.5, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.1, )"
@@ -158,14 +154,14 @@
         }
       }
     },
-    "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\webAdmin\\webAdmin.csproj": {
+    "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\webAdmin\\webAdmin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\webAdmin\\webAdmin.csproj",
+        "projectUniqueName": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\webAdmin\\webAdmin.csproj",
         "projectName": "webAdmin",
-        "projectPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\webAdmin\\webAdmin.csproj",
+        "projectPath": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\webAdmin\\webAdmin.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\webAdmin\\obj\\",
+        "outputPath": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\webAdmin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -186,11 +182,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Bus\\Bus.csproj": {
-                "projectPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Bus\\Bus.csproj"
-              },
-              "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj": {
-                "projectPath": "G:\\Code\\Apteach\\MVC\\MVC_Class_2020\\28122020\\Dao\\Dao.csproj"
+              "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Bus\\Bus.csproj": {
+                "projectPath": "G:\\Teach\\Teach\\Apteach\\07012020\\28122020\\Bus\\Bus.csproj"
               }
             }
           }
